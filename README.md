@@ -1,8 +1,5 @@
-## Hi there 👋
-
 <!--
 **JaidenKhosla/JaidenKhosla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🤖 I'm Jaiden Khosla, a highschool freshman with a deep passion for **computer science**.\
+🔭 Currently working on several game development projects (*Coming Soon!*).\
+📫 To get into contact, please email me at **JaidenKhosla09@gmail.com**
+
+  
