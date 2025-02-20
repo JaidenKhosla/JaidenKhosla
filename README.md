@@ -33,4 +33,6 @@ Here are some ideas to get you started:
 🔭 Currently working on several game development projects (*Coming Soon!*).\
 📫 To get into contact, please email me at **JaidenKhosla09@gmail.com**
 
-  [![Jaiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaidenKhosla)](https://github.com/anuraghazra/github-readme-stats)
+  ![JaidenKhosla's Stats](https://github-readme-stats.vercel.app/api?username=JaidenKhosla&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)\
+  ![JaidenKhosla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaidenKhosla&theme=vue-dark&hide_border=true)\
+  ![JaidenKhosla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaidenKhosla&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
