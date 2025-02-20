@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 🔭 Currently working on several game development projects (*Coming Soon!*).\
 📫 To get into contact, please email me at **JaidenKhosla09@gmail.com**
 
-  
+  [![Jaiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaidenKhosla)](https://github.com/anuraghazra/github-readme-stats)
