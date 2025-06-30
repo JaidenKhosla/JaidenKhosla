@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br />
 
-🤖 I'm Jaiden Khosla, a highschool freshman with a deep passion for **computer science**.\
+🤖 I'm Jaiden Khosla, a highschool sophomore with a deep passion for **computer science**.\
 🔭 Currently working on several game development projects (*Coming Soon!*).\
 📫 To get into contact, please email me at **JaidenKhosla09@gmail.com**
 
