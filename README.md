@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 <br />
 
-🤖 I'm Jaiden Khosla, a highschool sophomore with a deep passion for **computer science**.\
-🔭 Currently working on several game development projects (*Coming Soon!*).\
-📫 To get into contact, please email me at **jaiden@khosla.io**
+# Hi, I'm Jaiden Khosla
+
+## About Me
+ - I'm currently learning a lot of different things, mainly in DevOps, Cloud, and Frontend Technologies.
+ - I'm interested in Computer Science, Data Structures, Keyboards, and Web Development.
+ - How to reach me: jaiden@khosla.io (I generally respond in a few hours).
